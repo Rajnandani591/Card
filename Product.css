@@ -1,0 +1,23 @@
+.Product{
+    color: black;
+    border: 3px solid black;
+    height: 166px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    margin-left: 15px;
+    width: 250px;
+}
+body,h1{
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+
+}
+h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
